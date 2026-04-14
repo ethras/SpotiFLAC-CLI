@@ -5,6 +5,9 @@ build/
 *.dylib
 *.so
 
+# CLI Binary
+spotiflac-cli
+
 # Wails Generated Files
 frontend/wailsjs/
 
